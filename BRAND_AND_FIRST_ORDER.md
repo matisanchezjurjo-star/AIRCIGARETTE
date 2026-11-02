@@ -84,7 +84,7 @@
 
 Suggested opening set of 4 for Argentina:
 - **Crisp Mint** (the classic, and the most searched)
-- **Watermelon** (AirFume's best seller, so customers already know it)
+- **Watermelon** (AirFume promotes it heavily, so customers already know it)
 - **Fresh Orange** or **Iced Peach**
 - **Coffee** (pairs with the morning ritual)
 
