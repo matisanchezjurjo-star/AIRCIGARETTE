@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 -10 320 160" width="1600" height="800">
+  <title>pita wordmark</title>
+  <rect x="-20" y="-10" width="320" height="160" fill="#F3E6C4"/>
+  <g fill="none" stroke="#7A1F2B" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 50 V128"/>
+    <circle cx="46" cy="74" r="28"/>
+    <path d="M106 56 V100"/>
+    <path d="M154 24 V82 Q154 100 172 100 M138 54 H176"/>
+    <circle cx="234" cy="74" r="28"/>
+    <path d="M262 50 V100"/>
+  </g>
+  <circle cx="106" cy="22" r="15" fill="#D9481E"/>
+</svg>

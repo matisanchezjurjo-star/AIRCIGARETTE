@@ -1,105 +1,90 @@
-# PITÁ — Brand Guide v1
+# pita — Guía de marca v2
 
-> **PITÁ AIRE.** Sin humo. Sin nicotina. Sin vapor.
+> **Tu ratito tiene gusto.**
+> Inhalador de madera con sabor · Sin humo · Sin nicotina · Sin vapor
 
-## 1. Brand core
+Esta v2 reemplaza a la v1 (negro + celeste). La dirección elegida es **cálida, retro-moderna y mediterránea**: crema, vino, terracota, piedra travertino y madera de nogal.
+
+## 1. Esencia
 | | |
 |---|---|
-| **Name** | PITÁ ("pitar" = to take a puff, in the Argentine imperative). Short, local, impossible to forget. |
-| **Promise** | Keep the gesture and the pause, and swap the smoke for flavored air. |
-| **Positioning** | The urban, fun, porteño take on the habit-swap ritual. AirFume is calm "wellness" (olive/cream). PITÁ is **black + walnut + celeste**: city, night, energy. |
-| **Audience** | 22–40, Buenos Aires / Córdoba / Rosario, smokers and vapers who want to cut down, people who "just want something in their hand", and gift buyers. |
-| **Personality** | Canchero, direct, humorous, honest. Never preachy. |
+| **Nombre** | **pita**, siempre en minúscula. Viene de "pitar": el gesto, la pausa. |
+| **Claim** | **Tu ratito tiene gusto.** |
+| **Descriptor** | Inhalador de madera con sabor |
+| **Concepto** | *Ritual cotidiano*: el ratito del mate, el de después de comer, el de la pausa en el laburo. |
+| **Diferencial vs AirFume** | Ellos son verde oliva y "buen hábito" (wellness serio). **pita** es cálido, gourmet y cotidiano, más cerca de una marca de café o de yerba de especialidad que de una tabacalera. |
+| **Personalidad** | Cálida, simple, cercana, con un toque gourmet. Nunca sermonea. |
 
 ## 2. Logo
-Files in `brand/logo/`:
-| File | Use |
+Archivos en `brand/logo/`:
+| Archivo | Uso |
 |---|---|
-| `pita-wordmark-black.svg` | On light backgrounds (box interior, cards, web) |
-| `pita-wordmark-white.svg` | On dark backgrounds and photos |
-| `pita-wordmark-on-black.svg` | Social avatar, stickers |
-| `pita-engraving-mono.svg` | **Send this one to Suki** for the laser engraving on the wood. It is one color with no accent color. |
+| `pita-logo-vino.svg` | Logo principal (vino + punto naranja) sobre fondos claros |
+| `pita-logo-crema.svg` | Sobre fondos oscuros (Café, Frutos Rojos, vino) |
+| `pita-logo-sobre-crema.svg` | Avatar de redes, stickers |
+| `pita-grabado-mono.svg` | **Para el láser sobre la madera.** Mandar a Suki (es a 1 color). |
 
-- **Concept:** a rounded geometric wordmark. The accent on the **Á** is a **puff of air**, and it is the brand symbol. It can be used alone as an icon (favicon, pouch seal).
-- **Clear space:** keep at least the height of the "I" stem's width all around the logo. Minimum width: 20 mm in print, 80 px on screen.
-- ⚠️ The SVGs use *strokes*. Before sending them to production, open them in Illustrator/Figma and run **Outline Stroke / "Convertir trazo en contorno"** so the file contains only filled shapes. Suppliers' laser software expects that.
+- **Wordmark:** minúscula, redondo y muy grueso. El **punto de la i es naranja**: es "el ratito", la chispa de sabor. Se puede usar solo como ícono (favicon, sello del pouch).
+- En la caja, el logo va **gigante y en vertical**, ocupando todo el frente (ver referencia).
+- ⚠️ El SVG está hecho con *trazos*. Antes de producción, abrilo en Illustrator/Figma y hacé **"Contornear trazo"**, o pedile a un diseñador que lo vectorice final a partir de la referencia.
 
-## 3. Colors
-| Name | HEX | Use |
+## 3. Colores
+| Nombre | HEX | Uso |
 |---|---|---|
-| **Negro Pitá** | #111111 | Main background, box, pouches |
-| **Hueso** | #F2EDE4 | Text on black, light backgrounds |
-| **Celeste Aire** | #7CC6EE | Brand accent: the "air" color. Buttons, details, the logo accent. |
-| **Nogal** | #5A3A22 | Wood tone. Secondary, used mostly in photos. |
-| Flavor colors | Menta #3FBF7F · Sandía #E8414F · Naranja #F28C28 · Café #6B4A2E · Durazno #F6A37C · Vainilla #EFD9A7 | Only on each flavor's pouch band |
+| **Vino pita** | #6B1621 | Color principal: logo, titulares |
+| **Crema manteca** | #F3E6C4 | Fondo principal, caja |
+| **Naranja chispa** | #D9481E | Punto de la i, puntos finales, detalles (poco y preciso) |
+| **Terracota** | #C4562E | Formas de fondo (arco), textiles |
+| **Travertino** | #E2CDAE | Superficies, podios |
+| **Nogal** | #5A3A22 | Madera del dispositivo |
 
-Rule: **about 70% black, 20% hueso, 10% celeste.** Celeste is never a large background, only an accent.
-
-## 4. Typography
-- **Headlines:** *Fredoka* (bold) or *Nunito Black*. Both are rounded and free on Google Fonts, and they match the logo.
-- **Body:** *Inter* (regular/medium).
-- Headlines in CAPS, short, ending in a period: "PITÁ AIRE." "PAUSA CON SABOR."
-
-## 5. Product spec (for the supplier)
-- Device: **F1A, matte black mouthpiece + walnut (dark wood) body.** Engrave `pita-engraving-mono.svg` vertically on the wood, about 35 mm long.
-- Gift box: rigid black box, white PITÁ logo on the lid, thin celeste line; black foam insert.
-- Contents: device, 4 pouches (Menta, Sandía, Naranja, Café), pipe cleaner, cloth, card "30 DÍAS PITÁ" (habit tracker).
-- Pouches (when custom): matte black, colored band per flavor, white text.
-
-## 6. Voice and copy
-**We say:** "Pitá aire." · "Pausa con sabor." · "Sin humo. Sin nicotina. Sin vapor. Sin batería." · "Tu ritual, mejorado." · "El gesto se queda. El humo se va."
-**We don't say:** "100% natural", "cero químicos", "cura la ansiedad", "te ayuda a dejar de fumar", or any medical or health promise (ANMAT / Ley 24.240 risk). No images of fake smoke and no device in the mouth in ads.
-
-**Instagram bio:**
-> PITÁ 💨 aire con sabor
-> Sin humo · sin nicotina · sin vapor
-> Kit + sabores · envíos a todo el país 🇦🇷
-> 👇 pedí el tuyo
-
-## 7. Launch images (4K, AI-generated)
-Generated with Higgsfield (GPT Image 2.5, 4K high). They are saved in your Higgsfield account. Direct links:
-
-| # | Image | Size | Link |
+**Colores por sabor (pouches de RECARGAS):**
+| Sabor | Fondo | Hoja/arco | Logo |
 |---|---|---|---|
-| 1 | Hero product (black + celeste air) | 2560×3200 | [01-hero](https://d8j0ntlcm91z4.cloudfront.net/user_3FMPxzE0xbcUUdsUuVgIPu5r86E/hf_20261102_195322_3e4b5c61-3345-4e8d-b70a-51de306f4bbc.png) |
-| 2 | Kit unboxing flat lay | 2560×3200 | [02-kit](https://d8j0ntlcm91z4.cloudfront.net/user_3FMPxzE0xbcUUdsUuVgIPu5r86E/hf_20261102_195321_5bff53d1-aba3-4910-bc84-097a9ea0899f.png) |
-| 3 | Lifestyle, Palermo rooftop | 2560×3200 | [03-lifestyle](https://d8j0ntlcm91z4.cloudfront.net/user_3FMPxzE0xbcUUdsUuVgIPu5r86E/hf_20261102_195407_c8156f02-cbb6-4e24-bae1-166f0c82e24d.png) |
-| 4 | Flavor line-up | 2560×3200 | [04-sabores](https://d8j0ntlcm91z4.cloudfront.net/user_3FMPxzE0xbcUUdsUuVgIPu5r86E/hf_20261102_195321_65db2ded-b1b7-4ea6-9e54-f4130ccb7fd0.png) |
-| 5 | Story ad "PITÁ AIRE." | 2160×3840 | [05-story](https://d8j0ntlcm91z4.cloudfront.net/user_3FMPxzE0xbcUUdsUuVgIPu5r86E/hf_20261102_195322_7b3724c8-c404-4eb4-9977-5a77598df608.png) |
+| Menta | Salvia #A9BF98 | Verde #3F6B45 | Vino |
+| Limón | Mostaza #F0C341 | Ámbar #E89A1F | Vino |
+| Café | Chocolate #5B3A2A | Marrón #3E2619 | Crema |
+| Frutos Rojos | Frambuesa #C8324F | Bordó #8E1F35 | Crema |
+| *(futuros)* Sandía · Naranja · Durazno · Vainilla | Seguir la misma lógica: pastel/terroso + hoja más oscura | | |
 
-⚠️ These are AI concept renders. Check the text and the logo in each one (AI can misspell or distort it). Use them for launch, pre-sales and the supplier brief, then replace them with real photos once the samples arrive.
+## 4. Tipografía
+- **Titulares editoriales:** serif elegante de alto contraste, como *Fraunces* o *DM Serif Display* (gratis en Google Fonts). Ejemplo: "Tu ratito tiene gusto."
+- **Logo / impacto:** wordmark propio (no usar fuente).
+- **Textos y etiquetas:** *DM Sans* o *Inter*. Para las etiquetas tipo "RECARGAS" o "02 / RITUAL COTIDIANO", usar MAYÚSCULAS con mucho espaciado.
+- Firma visual: **terminar los titulares con un punto naranja.**
 
-## 8. Launch content: captions for the 5 images
-**Post 1, Hero**
-> Llegó PITÁ. 💨
-> Nogal, metal negro y aire con sabor.
-> Sin humo. Sin nicotina. Sin vapor. Sin batería.
-> El gesto se queda. El humo se va.
-> #PitáAire
+## 5. Packaging (spec para el proveedor)
+- **Dispositivo:** F1A, **boquilla negra + cuerpo de nogal.** Grabado láser "pita" vertical en la madera (`pita-grabado-mono.svg`).
+- **Caja:** alta y angosta, crema, con el logo "pita" gigante en vino en vertical, el punto naranja y "Inhalador de madera con sabor" arriba a la izquierda. Interior/bandeja en vino.
+- **Pouches "pita RECARGAS":** stand-up con zip, mate, en el color del sabor, con logo + "RECARGAS" + etiqueta crema con el nombre + hojas/arcos superpuestos abajo.
+- **Contenido del kit:** dispositivo + 4 recargas (Menta, Limón, Café, Frutos Rojos) + cepillo de limpieza + paño + tarjeta "30 días pita".
+- **Sabores a pedirle a Suki:** Crisp Mint → Menta, Lemon → Limón, Coffee → Café, Raspberry/Blueberry/Strawberry → Frutos Rojos.
 
-**Post 2, Kit**
-> Abrí tu kit PITÁ 📦
-> 1 dispositivo de nogal · 4 sabores (Menta, Sandía, Naranja, Café) · kit de limpieza · tarjeta 30 DÍAS.
-> Ideal para regalar (o regalarte).
-> Envíos a todo el país 🇦🇷
+## 6. Voz y copy
+**Sí:** "Tu ratito tiene gusto." · "Un ratito para vos." · "Ritual cotidiano." · "Sin humo. Sin nicotina. Sin vapor. Sin batería." · "Madera, aire y sabor." · "El gesto se queda. El humo no."
+**No:** "100% natural", "cero químicos", "te ayuda a dejar de fumar", "calma la ansiedad". Nada de promesas de salud (riesgo ANMAT / Ley 24.240). En los avisos, nada de humo falso ni el dispositivo en la boca.
+**Nota:** la palabra "inhalador" puede sonar a producto médico. Sirve como descriptor, pero en avisos pagos conviene alternarla con "dispositivo de aire con sabor".
 
-**Post 3, Lifestyle**
-> Terraza, mate y tu pausa. 🧉
-> PITÁ entra en el bolsillo y en cualquier plan.
-> ¿Cuál es tu momento para pitar aire?
+**Bio de Instagram:**
+> pita · tu ratito tiene gusto.
+> Inhalador de madera con sabor 🌿
+> Sin humo · sin nicotina · sin vapor
+> Envíos a todo el país 🇦🇷 👇
 
-**Post 4, Flavors**
-> ¿Team fresco o team frutal? 🍉🌿☕
-> Menta · Sandía · Naranja · Café · Durazno · Vainilla
-> Cada core dura [X días]. Cambialo y probá otro.
-> Comentá tu favorito 👇
+## 7. Sistema de contenido (estilo "ritual cotidiano")
+Las piezas siguen un formato editorial numerado: **"01 / EL GESTO", "02 / RITUAL COTIDIANO", "03 / LOS SABORES", "04 / TU KIT", "05 / TU RATITO"**. Fondo crema, luz de sol diagonal, travertino, rama de olivo, arco terracota.
 
-**Post 5, Story**
-> PITÁ AIRE. → [Conocé el kit]
-> (Story with a link sticker to the store + poll: "¿Lo probarías? Sí / Obvio")
+**Captions:**
+1. **El gesto.** "Madera de nogal, boquilla negra y aire con sabor. Sin humo. Sin nicotina. Sin vapor. Tu ratito tiene gusto."
+2. **El kit.** "Abrí tu pita 📦 1 inhalador de madera + 4 recargas (Menta, Limón, Café, Frutos Rojos) + kit de limpieza. Ideal para regalar, o para regalarte."
+3. **Tu ratito.** "El mate, el balcón, el sol de la tarde. Ese ratito ahora tiene gusto. 🧉 ¿Cuál es el tuyo?"
+4. **Los sabores.** "¿Menta, Limón, Café o Frutos Rojos? 🌿🍋☕🍓 Comentá tu favorito y te contamos cuál es el más pedido."
+5. **Story.** "Tu ratito tiene gusto. → Pedí tu kit" + encuesta: "¿Cuál probás primero?"
 
-## 9. Next steps
-1. Check PITÁ / PITÁ AIRE at **INPI** (classes 34, 3, 35), and the **@pita.aire** / **pita.com.ar** handle and domain. If "pita" is taken, fall back to **PITAIRE**.
-2. Have a designer convert the logo strokes to outlines → send to Suki for the device engraving + die-cut box.
-3. Fill the die-cut template with the box design (black + white logo + celeste line).
-4. Replace the AI renders with real sample photos when they arrive.
+## 8. Imágenes de lanzamiento
+Generadas con IA (Higgsfield, 4K) en esta estética. Están en tu cuenta de Higgsfield. **Son renders conceptuales:** revisá que el texto y el logo salgan bien en cada una, y reemplazalas por fotos reales cuando lleguen las muestras.
+
+## 9. Próximos pasos
+1. Verificar **"pita"** en INPI (clases 34, 3 y 35), el handle de Instagram (@pita.ar / @somospita / @pitaratito) y el dominio (pita.com.ar). "Pita" es una palabra común, así que conviene registrarla como **marca mixta (logo + palabra)**.
+2. Pasar el logo a vector final con un diseñador → enviar a Suki el grabado + el diseño de la caja sobre su troquel.
+3. Pedirle a Suki el MOQ de los pouches personalizados en 4 colores.
