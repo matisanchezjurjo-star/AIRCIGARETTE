@@ -113,3 +113,24 @@ Keep Vanilla and Grapefruit as refills.
 - Their Facebook page (`facebook.com/loksanful`) has only about 400 followers. That is small, so rely on samples and platform protection rather than their claims.
 - **Pay through Alibaba Trade Assurance (the "Enviar solicitud de pedido" button), not a direct bank transfer.** That covers quality and on-time delivery.
 - Approve a pre-production sample or photos of the finished box before paying the balance.
+
+## Competitor website: airfume.com.ar
+
+**Navigation:** Inicio · Kit AirFume · Pack sabores / filtros · **Suscripción** · Mis suscripciones. They already run a **refill subscription**, and that recurring revenue is the real business.
+
+**Hero:**
+- Headline: "Bienvenido al lado del buen hábito".
+- Subtitle: "Sin humo. Sin nicotina. 100% natural."
+- Benefit icons: 100% natural · Sin humo, sin vapor · Reemplaza el hábito · Filtros reemplazables.
+- Value cards: Natural · Reutilizable · Portátil · Libre de toxinas ("cero tóxicos, cero culpa").
+
+**Visual identity:**
+- Olive/army green, cream and tan/gold.
+- Bold condensed sans-serif with a script accent.
+- The device is the **F1A with silver mouthpiece + light beech wood**, with "AIRFUME" engraved along the wood. This confirms they buy from the same kind of supplier.
+
+**How we differentiate:**
+- **Colors:** avoid olive + cream + tan.
+- **Device:** black mouthpiece + walnut wood (or a custom color), with the logo engraved in a different spot or style.
+- **Claims:** they say "100% natural / sin químicos / cero tóxicos", but the supplier's MSDS lists triacetin, menthol and flavourings. We should **not** copy those claims, because they are hard to prove under consumer-protection law (Ley 24.240) and with ANMAT. Use honest wording instead: "sin humo, sin nicotina, sin vapor, sin batería", "cores de algodón de grado alimenticio (certificado)".
+- **Offer:** match their subscription, and compete on bundles (starter kit + 3-month refill plan), flavor drops, and a brand voice that is more fun and more porteño ("Pitá aire").
