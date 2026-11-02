@@ -19,6 +19,20 @@
 
 **Recommendation: TILO**, for example "TILO — tomate un tilo", "Tu pausa con sabor", "Aire con sabor, sin humo". Flavor packs could be "TILO Menta", "TILO Sandía", etc.
 
+### Round 2: "Pitá" + air (team liked PITÁ)
+
+| Name | Idea | Tagline |
+|---|---|---|
+| **PITAIRE** ⭐ | Pitá + aire in one word, read "pi-TAI-re". Argentine, about air, and clearly different from "AirFume". | "Pitá aire." / "Pitá sabor, no humo." |
+| **PITÁ AIRE** | Same idea as two words: an imperative plus the product | "Pitá Aire — aire con sabor" |
+| **BUEN AIRE** | A play on Buenos Aires plus "good air". Very local. | "Respirá Buen Aire" |
+| **TOMÁ AIRE** | "Tomar aire" means taking a breather or a pause | "Tomá aire. Tomá sabor." |
+| **AIRECITO** | Friendly porteño diminutive | "Un airecito con sabor" |
+
+Notes:
+- Prefer Spanish **"aire"** to English "air". "Air + word" is crowded and sits close to AirFume.
+- "Pitá" still evokes smoking. Keep the ads lifestyle-focused (no fake-smoking shots, no anti-smoking health claims).
+
 ### Verify before you commit to a name (about 1 hour)
 1. INPI trademark search (portaltramites.inpi.gob.ar), mainly classes 34, 3, 5 and 35.
 2. Instagram / TikTok handle (`tilo.ar`, `somostilo`, `tilo.arg`…).
