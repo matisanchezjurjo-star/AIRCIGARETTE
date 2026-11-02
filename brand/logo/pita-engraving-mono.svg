@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 -50 360 190" width="1440" height="760">
+  <title>PITÁ wordmark</title>
+  
+  <g fill="none" stroke="#000000" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M11 99 V21 H38 A25 25 0 0 1 38 71 H11"/>
+    <path d="M100 21 V99"/>
+    <path d="M135 21 H205 M170 21 V99"/>
+    <path d="M226 99 L256 21 H272 L302 99 M243 76 H285"/>
+  </g>
+  <path d="M256 -2 C266 -6 270 -16 280 -20 C286 -22 290 -24 294 -30" fill="none" stroke="#000000" stroke-width="12" stroke-linecap="round"/>
+</svg>
