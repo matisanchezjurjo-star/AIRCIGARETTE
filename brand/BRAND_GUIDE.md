@@ -88,3 +88,12 @@ Generadas con IA (Higgsfield, 4K) en esta estética. Están en tu cuenta de Higg
 1. Verificar **"pita"** en INPI (clases 34, 3 y 35), el handle de Instagram (@pita.ar / @somospita / @pitaratito) y el dominio (pita.com.ar). "Pita" es una palabra común, así que conviene registrarla como **marca mixta (logo + palabra)**.
 2. Pasar el logo a vector final con un diseñador → enviar a Suki el grabado + el diseño de la caja sobre su troquel.
 3. Pedirle a Suki el MOQ de los pouches personalizados en 4 colores.
+
+### Links a las imágenes v2 (4K)
+| # | Pieza | Tamaño | Link |
+|---|---|---|---|
+| 1 | 01 / El gesto: producto + claim | 2560×3200 | [ver](https://d8j0ntlcm91z4.cloudfront.net/user_3FMPxzE0xbcUUdsUuVgIPu5r86E/hf_20261102_195903_f291fb90-394a-4b2d-ad13-70933762c10e.png) |
+| 2 | 04 / Tu kit: unboxing | 2560×3200 | [ver](https://d8j0ntlcm91z4.cloudfront.net/user_3FMPxzE0xbcUUdsUuVgIPu5r86E/hf_20261102_195902_f8ecf221-69cd-4fbc-a691-50cffe30fc82.png) |
+| 3 | 05 / Tu ratito: lifestyle en el balcón con mate | 2560×3200 | [ver](https://d8j0ntlcm91z4.cloudfront.net/user_3FMPxzE0xbcUUdsUuVgIPu5r86E/hf_20261102_195901_e350215b-dc15-4a30-9389-82cf5343284b.png) |
+| 4 | 03 / Los sabores: pouches RECARGAS | 2560×3200 | [ver](https://d8j0ntlcm91z4.cloudfront.net/user_3FMPxzE0xbcUUdsUuVgIPu5r86E/hf_20261102_195902_7b1f13e2-4c82-43eb-90e0-3e97af0d59d5.png) |
+| 5 | Story: "Tu ratito tiene gusto." | 2160×3840 | [ver](https://d8j0ntlcm91z4.cloudfront.net/user_3FMPxzE0xbcUUdsUuVgIPu5r86E/hf_20261102_195944_c71711c9-40e7-4265-ac15-9f61b82ccf0f.png) |
