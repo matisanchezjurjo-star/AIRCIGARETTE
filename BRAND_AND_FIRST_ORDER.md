@@ -50,3 +50,52 @@
 > 7. Do you also supply this same design to another brand in Argentina? We'd like our box/device to be visually different.
 >
 > Thank you!
+
+## Supplier catalog review ("Inhaler – Rainforest" PDF)
+
+**Supplier:** Guangzhou Tropical Rainforest Industrial Co., Ltd., Baiyun District, Guangzhou. Contact: Suki Li, sue@hylaealife.com.
+
+### Recommended model: F1A (wood + stainless steel, refillable)
+- Size: 105 × 15 mm. Weight: 55 g (steel) or 34 g (black). Stock colors: black and silver. **Other mouthpiece colors can be customized.**
+- **F1 standard pack:** gift box + 1 stick + 4 flavor bags + cleaning tools (pipe cleaner, cloth) + card (30-day "Habit Tracker").
+  - Box: 15 × 8 × 5 cm, 200 g.
+  - Carton: 100 sets, 44 × 48 × 46 cm, 22 kg.
+- **Laser logo MOQ: 100 pcs.** It is engraved on the wood body (see the "Rainforest" samples).
+- **First order of 300 sets ≈ 3 cartons ≈ 66 kg, ≈ 0.29 m³.** For air freight the actual weight (66 kg) is higher than the volumetric weight (≈ 49 kg), so freight is charged on about 66 kg.
+
+**Differentiation warning:** AirFume's device looks like the **F1A silver mouthpiece + light wood**. To stand apart, choose **black mouthpiece + walnut wood**, a custom mouthpiece color (sage green or matte black are on-brand), or a patterned body (see the catalog's "Device" page).
+
+### Other models (for later product lines)
+| Model | What it is | Note |
+|---|---|---|
+| F1B / F1C | Same F1 body, conical mouthpiece / longer steel mouthpiece | Alternative premium looks |
+| F3 / F10 | Necklace inhaler (wood or aluminum) | Good as a second product or gift item. F10 custom package MOQ 500. |
+| F4A / F4B | Plastic (disposable) / aluminum "cigarette-shaped" | Cheaper entry product. Logo MOQ 500. |
+| F9 | Slim aluminum, 5 g | Production MOQ 300, package MOQ 500 |
+| F2A / F2B | Disposable plastic, 3 per box | Logo MOQ 20,000, so not for us |
+| F5 | All-wood rod with blank cores (you add essential oil yourself) | Aromatherapy niche |
+| F8 | Disposable aluminum, lasts 7 days | Not refillable, so it doesn't fit the refill business model |
+
+### Flavors
+- **Option A (pouch brand "Flavor Magic"):** 14 flavors.
+- **Option B (pouch brand "Spice stick"):** 15 flavors in stock. More appear in the photos: spearmint, lavender, green tea, passion fruit, pear, banana, iced peach, black licorice, apple, pomelo rind.
+- Core sizes: 5 × 20 mm or 6 × 2.5 × 35 mm (F1 uses the 6 × 2.5 × 35 mm core).
+- Both standard pouches carry **another brand's name**. That is one more reason to ask for neutral pouches or custom ones.
+
+Suggested opening set of 4 for Argentina:
+- **Crisp Mint** (the classic, and the most searched)
+- **Watermelon** (AirFume's best seller, so customers already know it)
+- **Fresh Orange** or **Iced Peach**
+- **Coffee** (pairs with the morning ritual)
+
+Keep Vanilla and Grapefruit as refills.
+
+### Certifications included
+- **Flavor MSDS** (Guangzhou Flower Flavours & Fragrances). For maple-pepper the ingredients are triacetin, DL-menthol, peppermint oil and food flavour.
+- **Fiber core test reports** (LCS lab, CNAS-accredited). Pass GB 4806.7 food-contact standard. No heavy metals, phthalates or PBB/PBDE detected.
+- **Ask for:** an MSDS for **each flavor we order**, a material spec for the wood and steel, and a COA per batch. Keep them on file for Aduana/ANMAT.
+
+### Supplier due diligence
+- Their Facebook page (`facebook.com/loksanful`) has only about 400 followers. That is small, so rely on samples and platform protection rather than their claims.
+- **Pay through Alibaba Trade Assurance (the "Enviar solicitud de pedido" button), not a direct bank transfer.** That covers quality and on-time delivery.
+- Approve a pre-production sample or photos of the finished box before paying the balance.
