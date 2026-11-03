@@ -101,7 +101,8 @@ Generadas con IA (Higgsfield, 4K) en esta estética. Están en tu cuenta de Higg
 
 ---
 
-# v3 — Dirección híbrida ("botánica + pita")
+# v3 — Dirección híbrida ("botánica + pita") — DESCARTADA
+> Decisión (nov 2026): **nos quedamos con la v2 (pita color)** para todo. Esta sección queda solo como referencia.
 Mezcla de la versión editorial botánica (serif, papel natural, ilustraciones grabadas) y la versión pita color (logo grueso, colores por sabor, arcos).
 
 | Elemento | Toma de la botánica | Toma de pita color |
@@ -128,3 +129,10 @@ Reglas:
 - En packaging, nada de colores saturados de fondo: el color va en la pestaña, en la ilustración y en el arco.
 - En marketing se pueden usar fondos de color plenos (vino, mostaza, salvia), el logo gigante y el punto naranja como recurso gráfico.
 - Sustentabilidad: si el proveedor lo permite, usar papel kraft/FSC y tintas al agua, y decirlo en el pack solo si es verdad ("Papel certificado FSC").
+
+
+## Foto de perfil de Instagram
+Archivos en `brand/instagram/` (1080×1080, el logo ocupa el 72% del ancho para entrar en el círculo):
+- `pita-ig-vino.png` ⭐ recomendado (logo crema sobre vino)
+- `pita-ig-crema.png` (logo vino sobre crema)
+- `pita-ig-naranja.png` (logo crema sobre naranja, punto vino)
