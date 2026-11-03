@@ -98,3 +98,20 @@ Generadas con IA (Higgsfield, 4K) en esta estética. Están en tu cuenta de Higg
 | 3 | 05 / Tu ratito: lifestyle en el balcón con mate | 2560×3200 | [ver](https://d8j0ntlcm91z4.cloudfront.net/user_3FMPxzE0xbcUUdsUuVgIPu5r86E/hf_20261102_195901_e350215b-dc15-4a30-9389-82cf5343284b.png) |
 | 4 | 03 / Los sabores: pouches RECARGAS | 2560×3200 | [ver](https://d8j0ntlcm91z4.cloudfront.net/user_3FMPxzE0xbcUUdsUuVgIPu5r86E/hf_20261102_195902_7b1f13e2-4c82-43eb-90e0-3e97af0d59d5.png) |
 | 5 | Story: "Tu ratito tiene gusto." | 2160×3840 | [ver](https://d8j0ntlcm91z4.cloudfront.net/user_3FMPxzE0xbcUUdsUuVgIPu5r86E/hf_20261102_195944_c71711c9-40e7-4265-ac15-9f61b82ccf0f.png) |
+
+---
+
+# v3 — Dirección híbrida ("botánica + pita")
+Mezcla de la versión editorial botánica (serif, papel natural, ilustraciones grabadas) y la versión pita color (logo grueso, colores por sabor, arcos).
+
+| Elemento | Toma de la botánica | Toma de pita color |
+|---|---|---|
+| **Logo** | — | Logo "pita" exacto (minúscula, vino, punto naranja). **No se modifica.** |
+| **Tipografía** | Serif elegante, espaciada, para el descriptor y los titulares ("El gusto está en los detalles.") | — |
+| **Base de packaging** | Papel crema natural texturado | — |
+| **Packs** | Pestaña de color vertical arriba + ilustración botánica grabada (en color) | Logo pita + "RECARGAS" + etiqueta redondeada + arco suave del color del sabor abajo |
+| **Caja** | Crema con ilustración botánica de línea fina (en vino) | Logo pita, costados vino, punto naranja |
+| **Dispositivo** | Boquilla negra mate con 2 anillos + nogal, "pita" grabado vertical | (mismo) |
+| **Fotos** | Travertino, sombras de hojas, planta, madera | Arco terracota, calidez |
+
+Ilustración por sabor: Menta → hojas de menta · Limón → medio limón con hojas · Café → granos · Frutos Rojos → frambuesas y moras · Arándano → racimo de arándanos.
