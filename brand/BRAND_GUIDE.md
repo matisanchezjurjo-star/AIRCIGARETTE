@@ -115,3 +115,16 @@ Mezcla de la versión editorial botánica (serif, papel natural, ilustraciones g
 | **Fotos** | Travertino, sombras de hojas, planta, madera | Arco terracota, calidez |
 
 Ilustración por sabor: Menta → hojas de menta · Limón → medio limón con hojas · Café → granos · Frutos Rojos → frambuesas y moras · Arándano → racimo de arándanos.
+
+## Cómo se usa la v3: una marca, dos registros
+| Registro | Dónde | Mezcla | Público | Qué transmite |
+|---|---|---|---|---|
+| **Producto** | Caja, packs, dispositivo, carta, web de producto | **70% botánica / 30% pita color** | 30–50, premium, valora lo natural y sustentable | Calidad, natural, sustentable, regalo, precio premium justificado |
+| **Marketing** | Instagram, TikTok, avisos, promos, stories, banners | **70% pita color / 30% botánica** | 22–35, sigue tendencias | Moda, diversión, impacto, ganas de comprar |
+
+Reglas:
+- El **logo pita** y los **colores de sabor** son iguales en ambos registros: son el puente.
+- La **serif elegante** aparece siempre en los titulares, también en marketing, para no perder lo premium.
+- En packaging, nada de colores saturados de fondo: el color va en la pestaña, en la ilustración y en el arco.
+- En marketing se pueden usar fondos de color plenos (vino, mostaza, salvia), el logo gigante y el punto naranja como recurso gráfico.
+- Sustentabilidad: si el proveedor lo permite, usar papel kraft/FSC y tintas al agua, y decirlo en el pack solo si es verdad ("Papel certificado FSC").
