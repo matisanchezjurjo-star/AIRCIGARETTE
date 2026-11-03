@@ -1,13 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 -10 320 160" width="1600" height="800">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-12 -4 300 138" width="1600" height="736">
   <title>pita wordmark</title>
-  
-  <g fill="none" stroke="#F3E6C4" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M16 50 V128"/>
-    <circle cx="46" cy="74" r="28"/>
-    <path d="M106 56 V100"/>
-    <path d="M154 24 V82 Q154 100 172 100 M138 54 H176"/>
-    <circle cx="234" cy="74" r="28"/>
-    <path d="M262 50 V100"/>
+  <g fill="#F3E6C4">
+    <rect x="0" y="40" width="27" height="82" rx="6"/>
+    <path fill-rule="evenodd" d="M22 70 a32 32 0 1 0 64 0 a32 32 0 1 0 -64 0 Z M41.5 70 a12.5 12.5 0 1 1 25.0 0 a12.5 12.5 0 1 1 -25.0 0 Z"/>
+    <rect x="94" y="40" width="27" height="60" rx="6"/>
+    <path d="M 139 25 Q 139 20 144 19 L 160 15 Q 166 14 166 20 V 40 H 184 Q 189 40 189 45 V 57 Q 189 62 184 62 H 166 V 73 Q 166 77 170 77 H 183 Q 188 77 188 82 V 95 Q 188 100 183 100 H 168 Q 139 100 139 72 V 62 H 135 Q 130 62 130 57 V 45 Q 130 40 135 40 H 139 Z"/>
+    <path fill-rule="evenodd" d="M196 70 a32 32 0 1 0 64 0 a32 32 0 1 0 -64 0 Z M215.5 70 a12.5 12.5 0 1 1 25.0 0 a12.5 12.5 0 1 1 -25.0 0 Z"/>
+    <rect x="245" y="40" width="27" height="60" rx="6"/>
   </g>
-  <circle cx="106" cy="22" r="15" fill="#D9481E"/>
+  <circle cx="105" cy="18" r="14" fill="#D9481E"/>
 </svg>

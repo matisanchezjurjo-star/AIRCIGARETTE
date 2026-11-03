@@ -26,7 +26,7 @@ Archivos en `brand/logo/`:
 
 - **Wordmark:** minúscula, redondo y muy grueso. El **punto de la i es naranja**: es "el ratito", la chispa de sabor. Se puede usar solo como ícono (favicon, sello del pouch).
 - En la caja, el logo va **gigante y en vertical**, ocupando todo el frente (ver referencia).
-- ⚠️ El SVG está hecho con *trazos*. Antes de producción, abrilo en Illustrator/Figma y hacé **"Contornear trazo"**, o pedile a un diseñador que lo vectorice final a partir de la referencia.
+- El SVG está hecho con formas rellenas (sin trazos), en el mismo estilo de la referencia: terminaciones rectas con esquinas suaves y la t con el corte inclinado arriba. Igual conviene que un diseñador haga el ajuste fino final.
 
 ## 3. Colores
 | Nombre | HEX | Uso |
@@ -45,6 +45,7 @@ Archivos en `brand/logo/`:
 | Limón | Mostaza #F0C341 | Ámbar #E89A1F | Vino |
 | Café | Chocolate #5B3A2A | Marrón #3E2619 | Crema |
 | Frutos Rojos | Frambuesa #C8324F | Bordó #8E1F35 | Crema |
+| Arándano | Azul arándano #5468A8 | Azul noche #2F3B73 | Crema |
 | *(futuros)* Sandía · Naranja · Durazno · Vainilla | Seguir la misma lógica: pastel/terroso + hoja más oscura | | |
 
 ## 4. Tipografía
@@ -57,8 +58,8 @@ Archivos en `brand/logo/`:
 - **Dispositivo:** F1A, **boquilla negra + cuerpo de nogal.** Grabado láser "pita" vertical en la madera (`pita-grabado-mono.svg`).
 - **Caja:** alta y angosta, crema, con el logo "pita" gigante en vino en vertical, el punto naranja y "Inhalador de madera con sabor" arriba a la izquierda. Interior/bandeja en vino.
 - **Pouches "pita RECARGAS":** stand-up con zip, mate, en el color del sabor, con logo + "RECARGAS" + etiqueta crema con el nombre + hojas/arcos superpuestos abajo.
-- **Contenido del kit:** dispositivo + 4 recargas (Menta, Limón, Café, Frutos Rojos) + cepillo de limpieza + paño + tarjeta "30 días pita".
-- **Sabores a pedirle a Suki:** Crisp Mint → Menta, Lemon → Limón, Coffee → Café, Raspberry/Blueberry/Strawberry → Frutos Rojos.
+- **Contenido del kit:** dispositivo + 5 recargas (Menta, Limón, Café, Frutos Rojos, Arándano) + cepillo de limpieza + paño + tarjeta "30 días pita".
+- **Sabores a pedirle a Suki:** Crisp Mint → Menta, Lemon → Limón, Coffee → Café, Raspberry/Strawberry → Frutos Rojos, Blueberry → Arándano.
 
 ## 6. Voz y copy
 **Sí:** "Tu ratito tiene gusto." · "Un ratito para vos." · "Ritual cotidiano." · "Sin humo. Sin nicotina. Sin vapor. Sin batería." · "Madera, aire y sabor." · "El gesto se queda. El humo no."
