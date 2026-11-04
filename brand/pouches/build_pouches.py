@@ -46,8 +46,7 @@ def back(x,y,f):
            'Cambialo cuando sientas menos sabor.',
            'Sin nicotina. No ingerir. Mantener fuera',
            'del alcance de los niños.',
-           'Industria China · Importa [RAZÓN SOCIAL]',
-           'CUIT [XX-XXXXXXXX-X] · Lote ____']
+           'Lote ____']
     yy=y+Z2+11.6
     for s in lines: o.append(text(s,x+SEAL+3,yy,1.75,'medium',fg)); yy+=2.55
     return ''.join(o)
