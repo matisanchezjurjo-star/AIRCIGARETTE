@@ -136,3 +136,6 @@ Archivos en `brand/instagram/` (1080×1080, el logo ocupa el 72% del ancho para 
 - `pita-ig-vino.png` ⭐ recomendado (logo crema sobre vino)
 - `pita-ig-crema.png` (logo vino sobre crema)
 - `pita-ig-naranja.png` (logo crema sobre naranja, punto vino)
+
+## Cuenta oficial de Instagram
+**@somospita_** (decidido nov 2026). Usar este usuario en la caja, la carta de bienvenida, las historias y los avisos. Reservar el mismo usuario en TikTok.

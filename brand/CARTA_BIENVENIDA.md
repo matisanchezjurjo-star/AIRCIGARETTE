@@ -24,4 +24,4 @@ Sin humo. Sin nicotina. Sin vapor.
 
 *pita no es un medicamento ni un tratamiento. Si querés ayuda para dejar de fumar, consultá a tu médico o llamá gratis a la Línea Nacional para Dejar de Fumar: 0800-999-3040.*
 
-**Tu ratito tiene gusto.** · @pita
+**Tu ratito tiene gusto.** · @somospita_

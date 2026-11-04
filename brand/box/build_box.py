@@ -68,7 +68,7 @@ lines=[('Inhalador de madera con sabor','semibold',4.0,WINE),
        ('Sin humo · Sin nicotina · Sin vapor · Sin batería','medium',3.0,WINE),
        ('Contenido: 1 inhalador de madera · 5 recargas de sabor (Menta, Limón, Café,','medium',2.5,WINE),
        ('Frutos Rojos, Arándano) · paño de limpieza · pinza · carta de bienvenida','medium',2.5,WINE),
-       ('Instagram @[usuario] · [web]','medium',2.3,WINE)]
+       ('Instagram @somospita_','semibold',2.6,WINE)]
 yy=B0+34
 for s,fnt,sz,col in lines: bk.append(text(s,bx+10,yy,sz,fnt,col)); yy+=sz*1.9
 bk.append(f'<rect x="{bx+W-44}" y="{B0+50}" width="34" height="20" fill="#fff" stroke="{WINE}" stroke-width="0.3"/>')
