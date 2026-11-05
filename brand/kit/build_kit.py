@@ -54,7 +54,7 @@ o.append(text('carta de bienvenida + sobre',LX+72,LY+86,4,'semibold',WINE,'middl
 # ---- cloth + tweezers + pipe cleaner
 KX,KY=24,258
 o.append(shadow(KX,KY,60,60,1,.2))
-o.append(crop('../cloth/pita-cloth-bordo-logo-crema.svg',(0,0,100,100),KX,KY,60,60,(100,100)))
+o.append(crop('../cloth/pita-cloth-negro-logo-crema.svg',(0,0,100,100),KX,KY,60,60,(100,100)))
 o.append(f'<g transform="translate({KX+72} {KY+6}) rotate(8)"><path d="M0 0 L3 0 L1.6 48 L0.8 48 Z" fill="#141414"/><path d="M6 0 L9 0 L8.2 48 L7.4 48 Z" fill="#141414" transform="rotate(4 4.5 0)"/><rect x="-0.5" y="-1" width="10" height="7" rx="1.5" fill="#141414"/></g>')
 o.append(f'<path d="M{KX+100} {KY+8} C{KX+112} {KY+4} {KX+122} {KY+16} {KX+114} {KY+30} C{KX+106} {KY+44} {KX+118} {KY+56} {KX+130} {KY+52}" fill="none" stroke="#2E7D3A" stroke-width="2.6" stroke-linecap="round" stroke-dasharray="0.6 0.5"/>')
 o.append(text('paño · pinza · cepillo',KX+73,KY+70,4,'semibold',WINE,'middle'))

@@ -4,6 +4,7 @@ HERE=os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0,os.path.dirna
 from artlib import logo, logo_h, WINE, CREAM
 S=100; BLACK='#111111'
 VARIANTS=[  # name, cloth, logo, dot, stitch, caption
+ ('negro-logo-crema',BLACK,CREAM,CREAM,'#2a2a2a','FINAL · Negro, logo crema'),
  ('bordo-logo-crema',WINE,CREAM,CREAM,'#4E0F18','A · Bordó, logo crema'),
  ('negro-logo-bordo',BLACK,WINE,WINE,'#2a2a2a','B · Negro, logo bordó entero'),
  ('negro-logo-bordo-punto-crema',BLACK,WINE,CREAM,'#2a2a2a','C · Negro, logo bordó + punto crema')]
@@ -17,5 +18,5 @@ open('preview.html','w').write(f'<html><body style="margin:0;background:#e9e4da;
 names=[v[0] for v in VARIANTS]
 js=f"""const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();
 for(const v of {names!r}){{await p.goto('file://{HERE}/pita-cloth-'+v+'.svg');await p.pdf({{path:'{HERE}/pita-cloth-'+v+'.pdf',width:'{S}mm',height:'{S}mm',printBackground:true,pageRanges:'1'}});}}
-await p.setViewportSize({{width:1300,height:500}});await p.goto('file://{HERE}/preview.html');await p.screenshot({{path:'{HERE}/preview.png'}});await b.close();}})();"""
+await p.setViewportSize({{width:1700,height:500}});await p.goto('file://{HERE}/preview.html');await p.screenshot({{path:'{HERE}/preview.png'}});await b.close();}})();"""
 open('/tmp/_rc.js','w').write(js); subprocess.run(['node','/tmp/_rc.js'],check=True); os.remove('/tmp/_rc.js'); print('ok')
