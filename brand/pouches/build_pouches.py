@@ -44,7 +44,6 @@ def back(x,y,f):
     o.append(text('RECARGAS · '+lab,x+W/2,yy,2.0,'bold',fg,'middle',0.35)); yy+=3.6
     for s_ in ('Sin nicotina · No ingerir','Mantener fuera del alcance de los niños'):
         o.append(text(s_,x+W/2,yy,1.7,'medium',fg,'middle')); yy+=2.6
-    o.append(text('Lote ____',x+W/2,yy+0.4,1.6,'medium',fg,'middle'))
     return ''.join(o)
 def page(f,with_dl=True):
     PW,PH=160,96; ax,ay,bx_=12,16,88
