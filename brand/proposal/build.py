@@ -20,8 +20,8 @@ render('index.html',prop,'pita-branding-proposal.pdf')
 # 2) quote request (3 pages)
 render('quote-request.html',open('quote-request.html').read(),'pita-quote-request.pdf')
 # 3) brand-guide section for the order pack (pages 4..8)
-bg=number(base,4,'PITA · BRAND GUIDE').replace('<div class="kicker">01 / The brand</div>','<div class="kicker">Brand guide · 01 / The brand</div>')
-bg=bg.replace('(see page 3)','(see page 6)').replace('the gift box on page 2 is the one','the gift box on page 5 is the one')
+bg=number(base,3,'PITA · BRAND GUIDE').replace('<div class="kicker">01 / The brand</div>','<div class="kicker">Brand guide · 01 / The brand</div>')
+bg=bg.replace('(see page 3)','(see page 5)').replace('the gift box on page 2 is the one','the gift box on page 5 is the one')
 render('index.html',bg,'_bg.pdf')
 w=PdfWriter()
 for p in PdfReader('pita-quote-request.pdf').pages: w.add_page(p)
@@ -47,9 +47,8 @@ z.writestr('pita-order-pack/README.txt',f"""pita - Order pack for Guangzhou Trop
 
 pita-order-pack.pdf
   p.1    Our first order + design photos
-  p.2    Price breakdown (please complete)
-  p.3    Branding confirmation before payment (please confirm each point)
-  p.4-{len(w.pages)}  pita brand guide: brand, colors, gift box, what's inside, device, flavor refills
+  p.2    Cost per unit of each item + total cost (please complete)
+  p.3-{len(w.pages)}  pita brand guide: brand, colors, gift box, what's inside, device, flavor refills
 
 artwork/ Print files: gift box, flavor pouches, device engraving, cloth, welcome letter, envelope, full kit overview\nphotos/  Design reference photos (mock-ups)
 logo/    Logo files (SVG, filled shapes). pita-engraving-1color.svg = laser engraving on the wood.
