@@ -28,7 +28,7 @@ TY=Y+127
 o.append(f'<rect x="{X}" y="{TY}" width="147" height="81" rx="1" fill="#F3E6C4"/>')
 o.append(f'<rect x="{X+5}" y="{TY+5}" width="137" height="71" rx="1" fill="#141414"/>')
 o.append(f'<rect x="{X+30}" y="{TY+31}" width="88" height="19" rx="9" fill="#060606"/>')
-o.append(crop('../device/pita-device-engraving.svg',(19,29.5,107,16),X+26,TY+33.3,107*0.88,16*0.88,(145,80),strip=True))
+o.append(crop('../device/pita-device-engraving.svg',(17.5,29.5,106,16),X+26,TY+33.3,106*0.88,16*0.88,(160,80),strip=True))
 o.append(text('caja abierta',X+73.5,TY+92,4,'semibold',WINE,'middle'))
 # ---- closed box (lid + flap visible)
 CX,CY=194,30
