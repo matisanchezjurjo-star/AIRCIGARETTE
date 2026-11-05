@@ -64,7 +64,7 @@ js=f"""const {{chromium}}=require('playwright');const {{execSync}}=require('chil
 const names={names!r};
 for(const n of names){{await p.goto('file://{HERE}/'+n+'.svg');await p.pdf({{path:'{HERE}/'+n+'.pdf',width:'160mm',height:'96mm',printBackground:true,pageRanges:'1'}});}}
 await p.setViewportSize({{width:1315,height:325}});await p.goto('file://{HERE}/overview-fronts.svg');await p.screenshot({{path:'{HERE}/overview-fronts.png'}});
-await p.setViewportSize({{width:907,height:544}});await p.goto('file://{HERE}/pouch-menta-dieline.svg');await p.screenshot({{path:'{HERE}/preview-menta-front-back.png'}});
+await p.setViewportSize({{width:605,height:363}});await p.goto('file://{HERE}/pouch-menta-dieline.svg');await p.screenshot({{path:'{HERE}/preview-menta-front-back.png'}});
 await b.close();}})();"""
 open('/tmp/_rp.js','w').write(js); subprocess.run(['node','/tmp/_rp.js'],check=True); os.remove('/tmp/_rp.js')
 # merge into 2 multi-page PDFs
