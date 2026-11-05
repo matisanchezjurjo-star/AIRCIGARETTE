@@ -37,18 +37,14 @@ def front(x,y,f):
 def back(x,y,f):
     k,lab,bg,dark,mid,fg=f; o=[]
     o.append(f'<rect x="{x-2}" y="{y-2}" width="{W+4}" height="{H+4}" rx="{R+2}" fill="{bg}"/>')
-    o.append(arcs(x,y,dark,mid,'b'+k+str(x),-14))
     o.append(text('ABRÍ ACÁ',x+W/2,y+11,2.0,'semibold',fg,'middle',0.5))
-    o.append(logo(x+SEAL+3,y+Z2+2.2,15,fg,ORANGE))
-    o.append(text('RECARGAS · '+lab,x+W-SEAL-3,y+Z2+6.6,1.9,'bold',fg,'end',0.2))
-    lines=['Contenido: [X] cores de algodón saborizado.',
-           'Uso: con la pinza, colocá un core en tu pita.',
-           'Cambialo cuando sientas menos sabor.',
-           'Sin nicotina. No ingerir. Mantener fuera',
-           'del alcance de los niños.',
-           'Lote ____']
-    yy=y+Z2+11.6
-    for s in lines: o.append(text(s,x+SEAL+3,yy,1.75,'medium',fg)); yy+=2.55
+    lw=24; lh=logo_h(lw); ly=y+Z2+3
+    o.append(logo(x+(W-lw)/2,ly,lw,fg,ORANGE))
+    yy=ly+lh+4.6
+    o.append(text('RECARGAS · '+lab,x+W/2,yy,2.0,'bold',fg,'middle',0.35)); yy+=3.6
+    for s_ in ('Sin nicotina · No ingerir','Mantener fuera del alcance de los niños'):
+        o.append(text(s_,x+W/2,yy,1.7,'medium',fg,'middle')); yy+=2.6
+    o.append(text('Lote ____',x+W/2,yy+0.4,1.6,'medium',fg,'middle'))
     return ''.join(o)
 def page(f,with_dl=True):
     PW,PH=160,96; ax,ay,bx_=12,16,88
