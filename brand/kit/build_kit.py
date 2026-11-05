@@ -12,7 +12,7 @@ def crop(src,vb,x,y,w,h,full,extra='',strip=False):
     inner=re.sub(r'id="([^"]+)"',lambda m:f'id="{p}{m.group(1)}"',inner)
     inner=re.sub(r'url\(#([^)]+)\)',lambda m:f'url(#{p}{m.group(1)})',inner)
     if strip:
-        inner=re.sub(r'<rect width="145" height="80" fill="#F3E6C4"/>','',inner); inner=re.sub(r'<ellipse[^>]*/>','',inner)
+        inner=re.sub(r'<rect width="[0-9]+" height="80" fill="#F3E6C4"/>','',inner); inner=re.sub(r'<ellipse[^>]*/>','',inner)
         inner=re.sub(r'<path d="M[^"]*" stroke="#6B1621"[^>]*/>','',inner)
     vx,vy,vw,vh=vb
     return f'<svg x="{x}" y="{y}" width="{w}" height="{h}" viewBox="{vx} {vy} {vw} {vh}" preserveAspectRatio="none" overflow="hidden"><g {extra}>{inner}</g></svg>'
